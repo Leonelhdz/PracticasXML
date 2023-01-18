@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<horario>
+    
+    <ciclo>DAM</ciclo>
+    <curso>Primero</curso>
+    <aula>Taller de Administración</aula>
+    
+    <semana>
+        
+        <dia nombre="Lunes">
+            <clase hora="8:00">Base de datos</clase>
+            <clase hora="9:00">Sistemas</clase>
+            <clase hora="10:00">Programación</clase>
+            <clase hora="11:00">RECREO</clase>
+            <clase hora="11:30">FOL</clase>
+            <clase hora="12:30">Marcas</clase>
+            <clase hora="13:30">Entornos</clase>    
+        </dia>
+        
+        <dia nombre="Martes">
+            <clase hora="8:00">Base de datos</clase>
+            <clase hora="9:00">FOL</clase>
+            <clase hora="10:00">FOL</clase>
+            <clase hora="11:00">RECREO</clase>
+            <clase hora="11:30">Sistemas</clase>
+            <clase hora="12:30">Sistemas</clase>
+            <clase hora="13:30">Sistemas</clase>
+        </dia>
+        
+        <dia nombre="Miercoles">
+            <clase hora="8:00">Programación</clase>
+            <clase hora="9:00">Programación</clase>
+            <clase hora="10:00">Marcas</clase>
+            <clase hora="11:00">RECREO</clase>
+            <clase hora="11:30">Marcas</clase>
+            <clase hora="12:30">Sistemas</clase>
+            <clase hora="13:30">Sistemas</clase>
+        </dia>
+        
+        <dia nombre="Jueves">
+            <clase hora="8:00">Programación</clase>
+            <clase hora="9:00">Programación</clase>
+            <clase hora="10:00">Programación</clase>
+            <clase hora="11:00">RECREO</clase>
+            <clase hora="11:30">Base de datos</clase>
+            <clase hora="12:30">Entornos</clase>
+            <clase hora="13:30">Entornos</clase>
+        </dia>
+        
+        <dia nombre="Viernes">
+            <clase hora="8:00">Programación</clase>
+            <clase hora="9:00">Programacion</clase>
+            <clase hora="10:00">Marcas</clase>
+            <clase hora="11:00">RECREO</clase>
+            <clase hora="11:30">Base de datos</clase>
+            <clase hora="12:30">Base de datos</clase>
+            <clase hora="13:30">Base de datos</clase>
+        </dia>
+       
+    </semana>
+    
+</horario>
+
+
+
+<-- alternativa -->
+
+<modulos>
+    <modulo nombre="Lenguaje de marcas">
+            <hora dia="Lunes">12:30</hora>
+            <hora dia="Miercoles">10:00</hora>
+            <hora dia="Miercoles">11:30</hora>
+            <hora dia="Viernes">10:00</hora>
+    </modulo>
+    <modulo nombre="Programacion">
+            <hora dia="Lunes">10:00</hora>
+            <hora dia="Miercoles">8:00</hora>
+            <hora dia="Miercoles">9:00</hora>
+            <hora dia="Jueves">8:00</hora>
+            <hora dia="Jueves">9:00</hora>
+            <hora dia="Jueves">10:00</hora>
+            <hora dia="Jueves">8:00</hora>
+            <hora dia="Jueves">9:00</hora>
+    </modulo>
+    <modulo nombre="Sistemas">
+            <hora dia="Lunes">12:30</hora>
+            <hora dia="Miercoles">10:00</hora>
+            <hora dia="Miercoles">11:30</hora>
+            <hora dia="Viernes">10:00</hora>
+    </modulo>
+    <modulo nombre="Base de Datos">
+            <hora dia="Lunes">12:30</hora>
+            <hora dia="Miercoles">10:00</hora>
+            <hora dia="Miercoles">11:30</hora>
+            <hora dia="Viernes">10:00</hora>
+    </modulo>
+    <modulo nombre="Entornos">
+            <hora dia="Lunes">12:30</hora>
+            <hora dia="Miercoles">10:00</hora>
+            <hora dia="Miercoles">11:30</hora>
+            <hora dia="Viernes">10:00</hora>
+    </modulo>
+    <modulo nombre="FOL">
+            <hora dia="Lunes">12:30</hora>
+            <hora dia="Miercoles">10:00</hora>
+            <hora dia="Miercoles">11:30</hora>
+            <hora dia="Viernes">10:00</hora>
+    </modulo>    
+</modulos>
