@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<pedido id="0001">
+    <cliente>
+        <nombre>Francisco Romero</nombre>
+        <direccion>
+            <calle>Huerta</calle>
+            <numero>3</numero>
+            <piso>1</piso>
+            <letra>b</letra>
+        </direccion>
+    </cliente>
+    
+    <contenido>
+        <articulo cantidad="1">Play Station 5</articulo>
+        <articulo cantidad="5">Play Station 5</articulo>
+        <articulo cantidad="2">Play Station 5</articulo>
+        
+    </contenido>
+   
+
+    <entrega>
+        <fecha>19-01-2023</fecha>
+    </entrega>
+      
+</pedido>
+
