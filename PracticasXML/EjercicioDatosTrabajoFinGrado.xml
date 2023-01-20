@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<proyectointegrado>
+    <datos>
+        <ciclo curso="Segundo">Desarrollo de Aplicaciones Multiplataforma</ciclo>
+        <curso ciclo="DAM">Segundo</curso>
+        <alumno>
+            <nombre>Gerardo Marin Jaime</nombre>
+        </alumno>
+    </datos>    
+    
+    <proyecto proyecto="FacePi">
+        <introduccion>
+            FacePic es un proyecto basado en Raspberry Pi 
+            utilizando su capacidad de computación, modularidad y 
+            compatibiliad de software
+        </introduccion>
+        <finalidad>
+            Crear un diapositivo capaz de reconocer rostros.
+        </finalidad>
+        <objetivos>
+            <objetivo> Adquisicion del hardware.</objetivo>
+            <objetivo>Instalacion del SO.</objetivo>
+            <objetivo>Puesta a punto de AWS Rekognitión.</objetivo>
+            <objetivo>Instalacion y vinculacion del software.</objetivo>
+            <objetivo>Programacion de Scripts.</objetivo>
+            <objetivo>Entrenamiento de la red neuronal</objetivo>
+            <objetivo>Testing.</objetivo>
+            <objetivo>Conclusión del proyecto</objetivo>
+        </objetivos>
+        <medios>
+            <medio>Equipo de sobremesa con Windows 10</medio>
+            <medio></medio>
+            <medio></medio>
+        </medios>
+        
+    </proyecto>
+</proyectointegrado>
+
