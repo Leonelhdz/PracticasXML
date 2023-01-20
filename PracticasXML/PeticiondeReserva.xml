@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<formulario_reserva fecha="12/12/4344" origen="web">
+    <nombre>asdfghjklñ</nombre>
+    <telefono>012345678</telefono>
+    <email>asdfghjklñ</email>
+    <fecha>12/12/2011</fecha>
+    <num_personas>4</num_personas>
+    <presupuesto>65</presupuesto>
+    <comentario>asdfghjklñ</comentario>
+</formulario_reserva>
+
