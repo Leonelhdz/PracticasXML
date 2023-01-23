@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+<cartelera moneda="€">
+<pais>España</pais>
+    <semanas>
+        <taquilla>
+        <fecha-inicial>25/12/2023</fecha-inicial>
+        <fecha-final>27/12/2023</fecha-final>
+        <peliculas>
+            <pelicula pos='1'>
+                <titulo>Trolls 2 Gira mundial</titulo>
+                <genero></genero>
+                <semanas>10</semanas>
+                <recaudacion></recaudacion>
+                <recaudacion-total></recaudacion-total>
+                <url></url>
+            </pelicula>
+        
+            <pelicula pos='2'>
+                <titulo></titulo>
+                <genero></genero>
+                <semanas></semanas>
+                <recaudacion></recaudacion>
+                <recaudacion-total></recaudacion-total>
+                <url></url>
+            </pelicula>
+        </peliculas>
+    </taquilla>
+    </semanas>
+</cartelera>
