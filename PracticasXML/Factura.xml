@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+-->
+
+
+
+<factura num="">
+    <empresa cif="">
+        <nombre></nombre>
+        <domicilio></domicilio>
+        <cp></cp>
+        <localidad></localidad>
+        <telefono></telefono>
+    </empresa>
+    
+    <fecha></fecha>
+    <pedido></pedido>
+    <formadepago></formadepago>
+    <baseimponible></baseimponible>
+    
+    <cliente num-cliente="">
+        <nombre></nombre>
+        <direccion></direccion>
+        <poblacion></poblacion>
+        <cod-postal></cod-postal>
+        <provincia></provincia>     
+    </cliente>
+    
+    <articulos>
+        <articulo ref="" cantidad="" precio="" iva=""></articulo>
+    </articulos>
+</factura>
+
