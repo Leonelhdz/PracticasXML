@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<biblioteca id="">
+ 
+    
+    <libros>
+        <libro>
+            <titulo></titulo>
+            <isbn></isbn>
+            <autor></autor>
+            <idioma></idioma>
+            <categorias>
+                <categoria></categoria>
+                <categoria></categoria>
+            </categorias>
+            <edicion></edicion>
+            <año></año>
+            <editorial></editorial>
+            <resumen></resumen>
+            
+            <resumen></resumen>
+            
+            <prestamo></prestamo> 
+        
+        
+            <ubicacion>
+                <seccion></seccion>
+                <estanteria></estanteria>
+            </ubicacion>
+        
+            <ejemplares>
+                <ejemplar estado="bueno" id="452">
+                    <fecha></fecha>
+                    <prestamos>
+                        <prestamo id="452">
+                            <fechaprestamo></fechaprestamo>
+                            <fechadev></fechadev>
+                        </prestamo>
+                    </prestamos>
+                </ejemplar>
+            </ejemplares>
+        
+        </libro> 
+    </libros>  
+    
+    <usuarios>
+        <usuario id="">
+            <nombre></nombre>
+            <apellidos></apellidos>
+            <fechanac></fechanac>
+            
+            <prestamos>
+                <prestamo ejemplar="452">
+                    <fechaprestamo></fechaprestamo>
+                    <fechadev></fechadev>
+                </prestamo>
+            </prestamos>
+            
+        </usuario>
+    </usuarios>
+</biblioteca>
+
